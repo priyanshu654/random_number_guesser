@@ -40,5 +40,6 @@ if myname.isalpha():
     if guess !=number:
         print(f"Nope😁.The number I was thinking is {number}.")
         print("Better luck next time")
+        print("priyanshu")
 else:
     print("Enter a valid input")
